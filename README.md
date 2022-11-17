@@ -6,7 +6,7 @@
 
 ![Wallysson](https://github-readme-stats.vercel.app/api?username=wallyssonsousa&show_icons=false&bg_color=00000000)
 
-## Linguagens que uso no dia a dia: 
+## Linguagens que uso no cotidiano: 
 
 <div style="display: inline-block">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
