@@ -34,3 +34,5 @@
     <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     
 </div>
+
+##Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero.
