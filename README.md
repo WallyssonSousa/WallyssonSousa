@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">💻 Graduando Análise e Desenvolvimento de Sistemas pela Faculdade Impacta.<br><br>🧑‍💻 Repositórios de Projetos: Desenvolvimento Pessoal, Acadêmico e de Estudo.</p>
+<p align="left">💻 Graduando Análise e Desenvolvimento de Sistemas pela Faculdade Impacta.<br><br>🧑‍💻 Repositórios de Projetos: Desenvolvimento Pessoal, Acadêmico e de Estudo.<br><br>
+🎓 Técnico em Desenvolvimento de Sistemas pela Etec Paulistano.</p>
 
 ###
 
