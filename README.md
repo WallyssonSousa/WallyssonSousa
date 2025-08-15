@@ -1,10 +1,6 @@
-<!-- =========================
-     APPLE VISION PRO STYLE README
-========================== -->
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=3500&pause=900&color=7F7F7F&center=true&vCenter=true&width=700&lines=Wallysson+Sousa;Desenvolvedor+Fullstack;Bem-vindo+ao+meu+GitHub+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=3500&pause=900&color=7F7F7F&center=true&vCenter=true&width=700&lines=Wallysson+Sousa;Desenvolvedor+FullStack;Bem-vindo+ao+meu+GitHub+%F0%9F%9A%80"
     alt="Typing intro"
   />
 </p>
@@ -27,14 +23,14 @@
   <tr>
     <!-- Frontend Básico -->
     <td align="center" bgcolor="#F5F5F5" style="border-radius:15px">
-      <b>🎨 Frontend Básico</b>
+      <b>Frontend Básico</b>
       <br/><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
     </td>
     <td align="center" bgcolor="#F5F5F5" style="border-radius:15px">
-      <b>⚡ Frameworks</b>
+      <b> Frameworks</b>
       <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat" />
       <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" />
@@ -46,14 +42,14 @@
   <tr>
     <!-- Backend -->
     <td align="center" bgcolor="#F5F5F5" style="border-radius:15px">
-      <b>🖥 Backend</b>
+      <b>Backend</b>
       <br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat" />
     </td>
     <td align="center" bgcolor="#F5F5F5" style="border-radius:15px">
-      <b>🗄 Banco de Dados</b>
+      <b> Banco de Dados</b>
       <br/><br/>
       <img src="https://img.shields.io/badge/MySQL-005E86?logo=mysql&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
@@ -63,7 +59,7 @@
   <tr>
     <!-- Ferramentas & DevOps -->
     <td colspan="2" align="center" bgcolor="#F5F5F5" style="border-radius:15px">
-      <b>🛠 Ferramentas & DevOps</b>
+      <b> Ferramentas & DevOps</b>
       <br/><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat" />
