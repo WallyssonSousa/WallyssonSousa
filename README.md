@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:111111&height=120&section=header&text=Wallysson%20Sousa&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Bem-Vindo+ao+meu+Github;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=1e3a8a&center=true&vCenter=true&width=600&lines=Bem-Vindo+ao+meu+Github;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
 </div>
 
