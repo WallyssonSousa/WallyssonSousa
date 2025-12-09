@@ -7,7 +7,7 @@ Cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta (em andamen
 Entre em contato: <a href="mailto:wallysson.dev@gmail.com" target="__blank">wallysson.dev@gmail.com</a>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python,express,flask,fastapi,nestjs,mysql,postgres,prisma,docker,git,github,vscode,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python,go,express,flask,fastapi,nestjs,mysql,postgres,prisma,docker,git,github,vscode,figma,postman)](https://skillicons.dev)
 
 ### Redes Sociais
 
